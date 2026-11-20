@@ -2,7 +2,7 @@
 
 A Google Forms + Google Sheets + Apps Script system that turns customer orders into clean, trackable data, built for my accessories brand in Gaborone, Botswana.
 
-![Sales dashboard](IMG_7711.png)
+![Sales dashboard](IMG_7711.jpeg)
 
 ## The problem
 
